@@ -1601,7 +1601,7 @@ async def cb_about(bot, update: CallbackQuery):
     text=f"<i><u>Bot's Status</u></i>\n"
     text+=f"\n<b><i>Bot's Uptime:</i></b> <code>{time_formatter(time.time() - start_uptime)}</code>\n"
     text+=f"\n<b><i>Bot Funtion:</i></b> <i>Auto Filter Files</i>\n"
-    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/Movies_songs_tj">@CrazyBotszGrp</a>\n"""
+    text+=f"""\n<b><i>Bot Support:</i></b> <a href="https://t.me/Movies_songs_tj">join ;-)</a>\n"""
     text+="""\n<b><i>Source Code:</i></b> <a href="https://github.com/Killersparrow0/Adv-Filter-Bot1">Source</a>"""
 
     buttons = [
